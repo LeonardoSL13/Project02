@@ -66,6 +66,11 @@ crashlytics-build.properties
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/Assets/Cainos
+/Assets/Customizable Skybox
+/Assets/Free Asset - 2D Handcrafted Art
+/Assets/Sunnyland
+/Assets/Warrior free set
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
